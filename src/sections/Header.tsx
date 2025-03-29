@@ -1,9 +1,10 @@
-import ArrowRight from '@/assets/arrow-right.svg'
+
 import Logo from '@/assets/logosaas.png'
 import MenuIcon from '@/assets/menu.svg'
 
 import {Fragment} from "react";
 import Image from "next/image";
+import ArrowRight from '@/assets/arrow-right.svg';
 
 export const Header = () => {
   return (
